@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "NkB3gVxhU0l9NI3OF1aQ58BMGPxBaXyBwDzZc3qC4dvx2h7TEL/d0O+QH1el3bPsQ2NW43zPv4FRrf7LZmNNTw==",
+  "success": true,
+  "projectFilePath": "/Users/zihangxu/Documents/ExpenseTracker/ExpenseTracker/ExpenseTracker.csproj",
+  "expectedPackageFiles": [
+    "/Users/zihangxu/.nuget/packages/microsoft.entityframeworkcore/9.0.0-preview.6.24327.4/microsoft.entityframeworkcore.9.0.0-preview.6.24327.4.nupkg.sha512",
+    "/Users/zihangxu/.nuget/packages/microsoft.entityframeworkcore.abstractions/9.0.0-preview.6.24327.4/microsoft.entityframeworkcore.abstractions.9.0.0-preview.6.24327.4.nupkg.sha512",
+    "/Users/zihangxu/.nuget/packages/microsoft.entityframeworkcore.analyzers/9.0.0-preview.6.24327.4/microsoft.entityframeworkcore.analyzers.9.0.0-preview.6.24327.4.nupkg.sha512",
+    "/Users/zihangxu/.nuget/packages/microsoft.entityframeworkcore.inmemory/9.0.0-preview.6.24327.4/microsoft.entityframeworkcore.inmemory.9.0.0-preview.6.24327.4.nupkg.sha512",
+    "/Users/zihangxu/.nuget/packages/microsoft.extensions.caching.abstractions/9.0.0-preview.6.24327.7/microsoft.extensions.caching.abstractions.9.0.0-preview.6.24327.7.nupkg.sha512",
+    "/Users/zihangxu/.nuget/packages/microsoft.extensions.caching.memory/9.0.0-preview.6.24327.7/microsoft.extensions.caching.memory.9.0.0-preview.6.24327.7.nupkg.sha512",
+    "/Users/zihangxu/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.0-preview.6.24327.7/microsoft.extensions.dependencyinjection.9.0.0-preview.6.24327.7.nupkg.sha512",
+    "/Users/zihangxu/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0-preview.6.24327.7/microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.6.24327.7.nupkg.sha512",
+    "/Users/zihangxu/.nuget/packages/microsoft.extensions.logging/9.0.0-preview.6.24327.7/microsoft.extensions.logging.9.0.0-preview.6.24327.7.nupkg.sha512",
+    "/Users/zihangxu/.nuget/packages/microsoft.extensions.logging.abstractions/9.0.0-preview.6.24327.7/microsoft.extensions.logging.abstractions.9.0.0-preview.6.24327.7.nupkg.sha512",
+    "/Users/zihangxu/.nuget/packages/microsoft.extensions.options/9.0.0-preview.6.24327.7/microsoft.extensions.options.9.0.0-preview.6.24327.7.nupkg.sha512",
+    "/Users/zihangxu/.nuget/packages/microsoft.extensions.primitives/9.0.0-preview.6.24327.7/microsoft.extensions.primitives.9.0.0-preview.6.24327.7.nupkg.sha512"
+  ],
+  "logs": []
+}
